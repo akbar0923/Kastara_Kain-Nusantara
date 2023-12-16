@@ -1,5 +1,6 @@
 <!-- Footer -->
-<footer class="bg3 p-b-32">
+<div class="footer">
+  <footer class="bg3 p-b-32">
   <div class="container">
     <div class="p-t-40">
       <p class="stext-107 cl6 txt-center">
@@ -10,7 +11,7 @@
     </div>
   </div>
 </footer>
-
+</div>
 <!-- Back to top -->
 <div class="btn-back-to-top" id="myBtn">
 		<span class="symbol-btn-back-to-top">

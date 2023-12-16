@@ -39,16 +39,12 @@
   <title>@yield('title', 'Online Store')</title>
 </head>
 <body>
-  @include('layouts.navbar')
-
-
+  
+  @include('layouts.navbars')
+  
   @yield('content')
-
-
+  
   @include('layouts.footer')
-
-  @include('layouts.js')
-
-
+  @include('layouts.apps-js')
 </body>
 </html>

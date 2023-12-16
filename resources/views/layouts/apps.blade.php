@@ -78,6 +78,7 @@
   <title>@yield('title', 'Online Store')</title>
 </head>
 <body>
+      
 @include('layouts.navbars')
 
 @yield('content')

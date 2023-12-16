@@ -18,3 +18,14 @@ nav{
   height: 18vw;
   object-fit: cover;
 }
+
+.footer {
+  height: 50px;
+  flex-shrink: 0;
+  background-color: #134c7d;
+  margin-top: 350px;
+}
+
+
+
+
